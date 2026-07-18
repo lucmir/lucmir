@@ -2,7 +2,7 @@
 
 ```yaml
 name: Lucas Cunha
-role: Senior Engineer — AI agents & cloud infrastructure
+role: Senior Fullstack Engineer | AI agents & cloud infrastructure
 company: Civic
 experience: 15+ years
 focus: building AI agents and the cloud infrastructure they run on
