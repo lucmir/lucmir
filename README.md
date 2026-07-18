@@ -14,26 +14,14 @@ focus: building AI agents and the cloud infrastructure they run on
 
 ## Stack
 
-**Languages**
+**Languages** — `TypeScript` `JavaScript` `Python` `Ruby` `Bash`
 
-`TypeScript` `JavaScript` `Python` `Ruby` `Bash`
+**Frameworks** — `Node.js` `React` `Next.js` `Express` `FastAPI` `Django` `Rails`
 
-**Frameworks**
+**Cloud & Infrastructure** — `AWS` `Kubernetes` `Docker` `Terraform` `Helm` `Prometheus` `Grafana` `Vercel`
 
-`Node.js` `React` `Next.js` `Express` `FastAPI` `Django` `Rails`
+**Data** — `PostgreSQL` `MongoDB` `Redis` `DynamoDB`
 
-**Cloud & Infrastructure**
+**AI & Agents** — `Claude Agent SDK` `MCP` `RAG / embeddings`
 
-`AWS` `Kubernetes` `Docker` `Terraform` `Helm` `Prometheus` `Grafana` `Vercel`
-
-**Data**
-
-`PostgreSQL` `MongoDB` `Redis` `DynamoDB`
-
-**AI & Agents**
-
-`Claude Agent SDK` `MCP` `RAG / embeddings`
-
-**Web3 & Identity**
-
-`Solana` `EVM` `OAuth2 / OIDC` `JWT`
+**Web3 & Identity** — `Solana` `EVM` `OAuth2 / OIDC` `JWT`
